@@ -1,0 +1,1 @@
+# C-Exercises-Delete-an-element-at-desired-position-from-an-array
